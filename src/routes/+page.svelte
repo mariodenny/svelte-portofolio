@@ -1,8 +1,8 @@
 <!--Row 1 image-->
 <div class="container">
-    <div class="row mt-2">
-        <img class="rounded" style="max-width: 10%;" src="img/rounded.png" alt="">
-    </div>
+    <!-- <div class="row mt-2">
+        <img class="rounded img-fluid" style="max-width: 15%;" src="img/rounded.png" alt="">
+    </div> -->
 
     <div class="row mt-2">
         <h1>Hello i'am Denny Mario 👋</h1>
