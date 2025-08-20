@@ -1,0 +1,66 @@
+{
+    "myProjects": [{
+            "name": "Student Assestment App",
+            "desc": "Student Review apps build on react native and expo , the main focus of the app is reviewing presentation student do in the front of class. Save assessment, Export to PDF, assestment score",
+            "github": "https://github.com/mariodenny/student-review/tree/main",
+            "imageUrl": [
+
+            ],
+            "videoUrl": "https://drive.google.com/drive/folders/16xHL9UF0matCX09iGUzA-MgoHPOAME_C?hl=id",
+            "tools": [
+                "React Native",
+                "SQLite",
+                "Javascript"
+            ],
+            "progress" : "done"
+
+        },
+        {
+            "name": "HRIS",
+            "desc": "Simple Human Resource Management system build on fullstack NextJS. Most of the features is core of the HRIS. Attendance, Salary, Leave management",
+            "github": "https://github.com/mariodenny/hr-management",
+            "imageUrl": [
+
+            ],
+            "videoUrl": "",
+            "tools": [
+                "React",
+                "Next JS",
+                "PostgreSQL",
+                "Javascript"
+            ],
+            "progress" : "done"
+        },
+        {
+            "name": "Flask Inventory Rest-API",
+            "desc": "Inventory rest api build on Flask + MySQL. Using average as method for recounting balance and stock. Also add manage user for accessing the apps.",
+            "github": "https://github.com/mariodenny/flask-sp",
+            "imageUrl": [
+
+            ],
+            "videoUrl": "",
+            "tools": [
+                "Flask",
+                "MySQL",
+                "Python"
+            ],
+            "progress" : "ongoing"
+        },
+        {
+            "name": "Plant monitoring Dashboard + Backend System",
+            "desc": "Project for completing my study at my University. In this project, the Backend will log all the transaction , message, command from MQTT. Add a dashboard and report",
+            "github": "https://github.com/mariodenny/web_final_project",
+            "imageUrl": [
+
+            ],
+            "videoUrl": "",
+            "tools": [
+                "PHP",
+                "MySQL",
+                "Laravel"
+            ],
+            "progress" : "ongoing"
+
+        }
+    ]
+}
